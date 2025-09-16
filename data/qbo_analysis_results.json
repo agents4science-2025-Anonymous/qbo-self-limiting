@@ -1,0 +1,30 @@
+{
+  "experiment_timestamp": "2025-08-22T01:07:12.534745",
+  "data_source": "existing_qbo_analysis_results",
+  "sample_size": 120,
+  "qbo_range": [
+    -24.631645002207293,
+    24.918321548023236
+  ],
+  "deltaF_range": [
+    -3.015997886657715,
+    -1.7572906017303467
+  ],
+  "mass_range": [
+    5.385796365718949,
+    10.759192528176111
+  ],
+  "training_metrics": {
+    "final_train_loss": 0.9666408896446228,
+    "final_val_loss": 1.12757408618927,
+    "epochs": 60
+  },
+  "phase_analysis": {
+    "pl_rfe_westerly": 0.31473153988848485,
+    "pl_rfe_easterly": 0.3145977727724545,
+    "phase_contrast": 0.00013376711603035885,
+    "efficiency_gain_percent": 0.04252004546996946,
+    "westerly_samples": 62,
+    "easterly_samples": 58
+  }
+}
